@@ -1,4 +1,4 @@
-<a target="_blank" href="https://carbonfootprintcalculator.streamlit.app/"><img src="https://github.com/mesutdmn/Carbon-Footprint-Calculator-App/assets/72805471/9223a800-b63b-4798-8973-ba5697afa88e"></img></a>
+
 ## 🌳About Codewise🌳
 
  The CodeWise app aims to explore and develop solutions by helping individuals calculate their monthly carbon footprint based on their lifestyle choices. The app then suggests the number of trees to plant to offset their carbon footprint, encouraging sustainable living practices for a more environmentally conscious world.
